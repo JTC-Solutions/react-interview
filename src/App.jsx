@@ -10,7 +10,6 @@ export const App = () => {
         <div className="bg-gray-100 rounded-md p-4">
           <Assignment />
         </div>
-        <hr />
         <div>
           TODO:
         </div>
