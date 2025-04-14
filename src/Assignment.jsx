@@ -6,7 +6,7 @@ export const Assignment = () => {
           Vytvoř formář: 1 textový input na vložení názvu města a tlačítko submit
         </li>
         <li>
-          Po submitu zavolat endpoint OpenWeatherAPI a získat tempotu
+          Po submitu zavolat endpoint OpenWeatherAPI a získat teplotu
           <ul className="list-disc ml-7">
             <li>
               <a className="underline" href="https://openweathermap.org/current#builtin" target={"_blank"}>
